@@ -1,2 +1,0 @@
-# hero
-mainpage of ecovision
